@@ -12,5 +12,11 @@ int main(){
     cin >> b;
 
     float c = a + b;
+    float d = a - b;
+    float e = a * b;
+    float f = a / b;
     cout << c << endl;
+    cout << d << endl;
+    cout << e << endl;
+    cout << f << endl;
 }
